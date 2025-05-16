@@ -1,8 +1,4 @@
 /**
- * {Project Description Here}
- */
-
-/**
  * The class containing the main method.
  *
  * @author Kerem Bozgan
